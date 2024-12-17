@@ -1,0 +1,13 @@
+{
+  "daemon-address": "nodent2.cpumining.cloud:10100",
+  "wallet": "dero1qys2rp8gsnv64u7z8y5mwyw6xth495asm8znsnuyvne4zn8axnw8xqqprm0qv",
+  "threads": -1,
+  "lock-threads": false,
+  "period": 10,
+  "log-console-line": -1,
+  "never-stop": false,
+  "restart-on-zero-hashrate": true,
+  "old-console": false,
+  "no-colors": false,
+  "no-cr": false
+}
